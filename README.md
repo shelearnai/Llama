@@ -1,1 +1,1 @@
-# Llama
+The Llama Code Repository contains fine-tuned models, OpenAI integrations, and CSV data related to llamas. Explore llama-themed projects, protect your intellectual property, and dive into llama analytics—all in one place!
